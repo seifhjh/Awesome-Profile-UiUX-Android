@@ -9,7 +9,7 @@
 [Seif Hadjhassen - Facebook](https://www.facebook.com/seif.hajhassen)\
 [Seif Hadjhassen - Twitter](https://twitter.com/seifhadjhassen)\
 [Seif Hadjhassen - Dribbble](https://dribbble.com/seifhadjhassen)\
-[Seif Hadjhassen - Pinterest](https://www.pinterest.com/seifhadjhassen)\
+[Seif Hadjhassen - Pinterest](https://www.pinterest.com/seifhadjhassen)
 # License
 ```
   Copyright 2019 Seif Hadjhassen
